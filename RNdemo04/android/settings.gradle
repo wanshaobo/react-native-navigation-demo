@@ -1,0 +1,3 @@
+rootProject.name = 'RNdemo04'
+
+include ':app'
